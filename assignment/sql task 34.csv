@@ -1,0 +1,4 @@
+"order_id","customer_id","order_date","order_amount","delivery_city","payment_mode"
+101,1,"2023-01-10",1500,"Mumbai","Credit Card"
+115,15,"2023-04-18",2300,"Nagpur","Credit Card"
+128,28,"2023-07-14",2800,"Aurangabad","Net Banking"
